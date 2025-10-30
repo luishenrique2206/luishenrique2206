@@ -14,7 +14,7 @@
 
 <div align="center"><h1>Tecnologias que utilizo</h1></div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,java,sql" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,java,mysql" /><br>
 </div>
 
 
